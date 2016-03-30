@@ -71,6 +71,51 @@
             "profilePic": "http://2.bp.blogspot.com/-wpvQhrx4NLo/Ug4P8QkWKdI/AAAAAAAABnk/ItCTcFJkDBY/s1600/final.png",
             "timeStamp": "1845375341930",
             "url": null
+        },
+        {
+            "id": 10,
+            "name": "Juhi Bhatnagar",
+            "image": "http://www.browneyedbaker.com/wp-content/uploads/2011/04/italian-pasta-salad-2-550.jpg",
+            "status": "I made pasta today. Sharing here",
+            "profilePic": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAaHAAAAJDVjNjVhYTc5LWQ1YTEtNDI4YS1iYzljLWYzN2E5NjVjOWZkNg.jpg",
+            "timeStamp": "1845323341930",
+            "url": null
+        },
+        {
+            "id": 9,
+            "name": "Simran Saxena",
+            "image": "http://www.mealadvisors.com/files/get/path/original/galleries/burger_large.jpg",
+            "status": "I was bored so I made this tasty burger",
+            "profilePic": "https://qph.is.quoracdn.net/main-thumb-72973461-200-vdcysjqjwrrvyofynyqiyhicfzxlptna.jpeg",
+            "timeStamp": "1403375851930",
+            "url": null
+        },
+        {
+            "id": 11,
+            "name": "Chanchal Prajapati",
+            "image": "http://az723720.vo.msecnd.net/media/img17699.768x512.jpg",
+            "status": "I love cooking and making you all jealous of my dishes",
+            "profilePic": "https://qph.is.quoracdn.net/main-thumb-29460423-200-dmpxgiclueewxsjecglhexldmhqeeuhn.jpeg",
+            "timeStamp": "1403375828430",
+            "url": null
+        },
+        {
+            "id": 12,
+            "name": "Saloni Gupta",
+            "image": "http://traveleatfun.com/wp-content/uploads/2014/09/Chowmein-Recipe24.jpg",
+            "status": "Life is too small to diet",
+            "profilePic": "http://cdnstatic.visualizeus.com/thumbs/fb/75/deviantart,animated,girl,beautiful,silence,art-fb75acd970a3f34d21096874ee0510f6_h.jpg",
+            "timeStamp": "1403375851930",
+            "url": null
+        },
+        {
+            "id": 13,
+            "name": "Zilch Manga",
+            "image": "http://www.dimpofood.gr/wp-content/uploads/2013/12/icecream2.jpg",
+            "status": "Time to chill",
+            "profilePic": "http://2.bp.blogspot.com/-wpvQhrx4NLo/Ug4P8QkWKdI/AAAAAAAABnk/ItCTcFJkDBY/s1600/final.png",
+            "timeStamp": "1845375341930",
+            "url": null
         }
     ]
 }

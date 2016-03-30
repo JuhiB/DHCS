@@ -1,0 +1,24 @@
+<sql>
+<statement>
+CREATE TABLE IF NOT EXISTS food (
+   _id INTEGER PRIMARY KEY AUTOINCREMENT, 
+   foodName VARCHAR(50), 
+   cookName VARCHAR(50), 
+   price DOUBLE)
+</statement>
+<statement>INSERT INTO food VALUES(1,'Pasta','Simran Saxena',130.5)</statement>
+<statement>INSERT INTO food VALUES(2,'Biryani','Saloni Gupta',188.7)</statement>
+<statement>INSERT INTO food VALUES(3,'Burger','Juhi Bhatnagar',89.9)</statement>
+<statement>INSERT INTO food VALUES(4,'Burger','Amod Agrawal',70.0)</statement>
+<statement>INSERT INTO food VALUES(5,'Pasta','Chanchal Prajapati',100.0)</statement>
+<statement>INSERT INTO food VALUES(6,'White Pasta','Saloni Gupta',130.5)</statement>
+<statement>INSERT INTO food VALUES(7,'Veg Biryani','Protichi Basak',200.0)</statement>
+<statement>INSERT INTO food VALUES(8,'Rajma Chawal','Juhi Bhatnagar',100.0)</statement>
+<statement>INSERT INTO food VALUES(9,'Cake','Amod Agrawal',250.5)</statement>
+<statement>INSERT INTO food VALUES(10,'Chocolate Cake','Simran Saxena',220.0)</statement>
+<statement>INSERT INTO food VALUES(11,'Red Pasta','Protichi Basak',170.0)</statement>
+<statement>INSERT INTO food VALUES(12,'Pizza','Saloni Gupta',100.0)</statement>
+<statement>INSERT INTO food VALUES(13,'Biryani','Juhi Bhatnagar',70.0)</statement>
+<statement>INSERT INTO food VALUES(14,'Red Velvet Cake','Juhi Bhatnagar',300.0)</statement>
+<statement>INSERT INTO food VALUES(15,'Pulao','Simran Saxena',100.0)</statement>
+</sql>

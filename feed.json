@@ -1,0 +1,49 @@
+{
+    "feed": [
+        {
+            "id": 1,
+            "name": "Simran Saxena",
+            "image": "http://4.bp.blogspot.com/-i9oK3NEPb18/TxTpfn9jlEI/AAAAAAAAE3Q/42dw4pdYG5Y/s1600/DSC_7611+-+Copy.JPG",
+            "status": "Hey. Ever wondered How to Make Rajma Chawal? Here is a way!",
+            "profilePic": "https://qph.is.quoracdn.net/main-thumb-72973461-200-vdcysjqjwrrvyofynyqiyhicfzxlptna.jpeg",
+            "timeStamp": "1403375851930",
+            "url": null
+        },
+        {
+            "id": 2,
+            "name": "Saloni Gupta",
+            "image": "http://1749_orangezeb.limetray.com/assets/user_images/content_images/original/1438162749_974117723_IL6K2ZV.png",
+            "status": "Make a biryani quickly! My own method. Enjoy :D",
+            "profilePic": "http://cdnstatic.visualizeus.com/thumbs/fb/75/deviantart,animated,girl,beautiful,silence,art-fb75acd970a3f34d21096874ee0510f6_h.jpg",
+            "timeStamp": "1403375851930",
+            "url": null
+        },
+        {
+            "id": 5,
+            "name": "Juhi Bhatnagar",
+            "image": "http://images.mapsofindia.com/my-india/Paneer-tikka.jpg",
+            "status": "Tasty paneer tikka!",
+            "profilePic": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAaHAAAAJDVjNjVhYTc5LWQ1YTEtNDI4YS1iYzljLWYzN2E5NjVjOWZkNg.jpg",
+            "timeStamp": "1403375851930",
+            "url": null
+        },
+        {
+            "id": 3,
+            "name": "Amod Agrawal",
+            "image": "https://www.hersheys.com/content/dam/hersheyskitchens/images/recipes/large/184_en-us_large.jpg",
+            "status": "This chocolate cake is delicious",
+            "profilePic": "https://qph.is.quoracdn.net/main-thumb-26004213-200-yybqrnjbjpofucprrkteszbawyzsilre.jpeg",
+            "timeStamp": "1403375851930",
+            "url": null
+        },
+        {
+            "id": 4,
+            "name": "Ravi Tamada",
+            "image": "http://2.bp.blogspot.com/-ppEXe6Bt8UA/T0TEvzli-fI/AAAAAAAAAsg/F_VeR8sMfBo/s1600/tasty-wedding-cakes.jpg",
+            "status": "Get professional looking cakes!",
+            "profilePic": "http://www.sherlock-holmes.co.uk/pr/silhouette.GIF",
+            "timeStamp": "1403375851930",
+            "url": null
+        }
+    ]
+}
